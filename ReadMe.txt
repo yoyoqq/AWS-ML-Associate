@@ -1,0 +1,1 @@
+AWS ML Associate notes for the exam
